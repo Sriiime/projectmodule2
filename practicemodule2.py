@@ -1,2 +1,3 @@
 # projectmodule2
-module2
+print(practicemodule2)
+
